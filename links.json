@@ -1,18 +1,57 @@
 
 {
-    "工作相关": [
-        { "name": "公司OA", "url": "https://oa.example.com" },
-        { "name": "邮箱", "url": "https://mail.example.com" }
-    ],
-    "娱乐休闲": [
-        { "name": "YouTube", "url": "https://www.youtube.com" },
-        { "name": "Bilibili", "url": "https://www.bilibili.com" },
-        { "name": "Steam", "url": "https://store.steampowered.com" }
-    ],
-    "影音资源": [],
-    "学习资料": [
-        { "name": "ChatGPT", "url": "https://chat.openai.com" },
-        { "name": "知乎", "url": "https://www.zhihu.com" },
-        { "name": "技术博客", "url": "https://juejin.cn" }
-    ]
+  "工作相关": [
+    {
+      "name": "公司OA",
+      "desc": "内部办公系统",
+      "url": "https://oa.example.com",
+      "icon": "https://www.google.com/s2/favicons?sz=64&domain=example.com"
+    },
+    {
+      "name": "邮箱",
+      "desc": "公司邮件系统",
+      "url": "https://mail.example.com",
+      "icon": "https://www.google.com/s2/favicons?sz=64&domain=mail.example.com"
+    }
+  ],
+  "娱乐休闲": [
+    {
+      "name": "YouTube",
+      "desc": "全球最大的视频平台",
+      "url": "https://www.youtube.com",
+      "icon": "https://www.google.com/s2/favicons?sz=64&domain=www.youtube.com"
+    },
+    {
+      "name": "Bilibili",
+      "desc": "中国年轻人文化社区",
+      "url": "https://www.bilibili.com",
+      "icon": "https://www.google.com/s2/favicons?sz=64&domain=www.bilibili.com"
+    },
+    {
+      "name": "Steam",
+      "desc": "游戏下载与社区平台",
+      "url": "https://store.steampowered.com",
+      "icon": "https://www.google.com/s2/favicons?sz=64&domain=steampowered.com"
+    }
+  ],
+  "学习资料": [
+    {
+      "name": "ChatGPT",
+      "desc": "AI 问答助手",
+      "url": "https://chat.openai.com",
+      "icon": "https://www.google.com/s2/favicons?sz=64&domain=chat.openai.com"
+    },
+    {
+      "name": "知乎",
+      "desc": "问答与知识社区",
+      "url": "https://www.zhihu.com",
+      "icon": "https://www.google.com/s2/favicons?sz=64&domain=www.zhihu.com"
+    },
+    {
+      "name": "技术博客",
+      "desc": "开发相关干货博客",
+      "url": "https://juejin.cn",
+      "icon": "https://www.google.com/s2/favicons?sz=64&domain=juejin.cn"
+    }
+  ]
 }
