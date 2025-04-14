@@ -1,0 +1,18 @@
+
+{
+    "工作相关": [
+        { "name": "公司OA", "url": "https://oa.example.com" },
+        { "name": "邮箱", "url": "https://mail.example.com" }
+    ],
+    "娱乐休闲": [
+        { "name": "YouTube", "url": "https://www.youtube.com" },
+        { "name": "Bilibili", "url": "https://www.bilibili.com" },
+        { "name": "Steam", "url": "https://store.steampowered.com" }
+    ],
+    "影音资源": [],
+    "学习资料": [
+        { "name": "ChatGPT", "url": "https://chat.openai.com" },
+        { "name": "知乎", "url": "https://www.zhihu.com" },
+        { "name": "技术博客", "url": "https://juejin.cn" }
+    ]
+}
